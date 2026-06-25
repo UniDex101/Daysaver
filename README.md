@@ -32,6 +32,7 @@ A simple, lightweight command-line tool to save and manage important dates.
    ```
 
 **Dependencies**: Only standard Python libraries + ezclear for screen clearing.
+
 Install `ezclear` if needed:
 
 ```bash
