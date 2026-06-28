@@ -15,7 +15,7 @@ A simple, lightweight command-line tool to save and manage important dates.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/daysaver.git
+   git clone https://github.com/Unidex101/daysaver.git
    cd daysaver
    ```
 2. Make the script executable (Linux/macOS):
